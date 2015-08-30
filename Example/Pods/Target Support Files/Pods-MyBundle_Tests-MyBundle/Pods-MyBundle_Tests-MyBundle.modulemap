@@ -1,0 +1,6 @@
+framework module MyBundle {
+  umbrella header "Pods-MyBundle_Tests-MyBundle-umbrella.h"
+
+  export *
+  module * { export * }
+}
